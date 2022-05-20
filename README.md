@@ -5,9 +5,9 @@ Nadat ik dit voor mijzelf duidelijk had gemaakt, ben ik mijn werkomgeving/codeer
 
 Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen. 
 
-#### Ik ben begonnen bij sound1 (alarm). Ik heb eerst even research gedaan hoe nou zo'n alarm eruit ziet en ben gaan nadenken wat een alarm vaak wilt overbrengen en dat is gevaar, oplettendheid.
+## Ik ben begonnen bij sound1 (alarm). Ik heb eerst even research gedaan hoe nou zo'n alarm eruit ziet en ben gaan nadenken wat een alarm vaak wilt overbrengen en dat is gevaar, oplettendheid.
 
-#### Dit principe (sound1) visualiseer ik door:
+### Dit principe (sound1) visualiseer ik door:
 - Een rode gloed achter de video te plaatsen.
 - Video wordt groter en kleiner, dus gloed ook
 - Video trilt
@@ -15,9 +15,9 @@ Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen.
 -- Ik was tevreden en de feedback was positief --
 
 
-#### Ik ben begonnen bij sound1 (alarm). Ik heb eerst even research gedaan hoe nou zo'n alarm eruit ziet en ben gaan nadenken wat een alarm vaak wilt overbrengen en dat is gevaar, oplettendheid.
+## Ik ben begonnen bij sound1 (alarm). Ik heb eerst even research gedaan hoe nou zo'n alarm eruit ziet en ben gaan nadenken wat een alarm vaak wilt overbrengen en dat is gevaar, oplettendheid.
 
-##### Dit principe (sound2) visualiseer ik door:
+### Dit principe (sound2) visualiseer ik door:
 - Een rode gloed achter de video te plaatsen.
 - Video wordt groter en kleiner, dus gloed ook
 - Video trilt
