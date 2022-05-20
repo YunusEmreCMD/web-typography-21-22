@@ -2,22 +2,5 @@ Ik ben begonnen aan de opdracht door eerst te noteren watvoor geluiden er worden
 
 Nadat ik dit voor mijzelf duidelijk had gemaakt, ben ik mijn werkomgeving/codeert omgeving gaan opnieuw gaan inrichten om het voor mijzelf overzichtelijker te maken. Daarna ben ik de iframe eruit gaan halen, ik vond namelijk mooier om zelf een video er in te zetten, omdat je dan die YouTube rotzooi niet hebt. En daarnaast is de resolutie van de video op deze manier ook hoger, omdat ik de film zelf ben gaan bijsnijden om de benodigde fragmenten te krijgen.
 
-
 Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen. 
 
-Ik ben begonnen bij sound1 (alarm). Ik heb eerst even research gedaan hoe nou zo'n alarm eruit ziet en ben gaan nadenken wat een alarm vaak wilt overbrengen en dat is gevaar, oplettendheid.
-
-### Dit principe (sound1) visualiseer ik door:
-- Een rode gloed achter de video te plaatsen.
-- Video wordt groter en kleiner, dus gloed ook
-- Video trilt
-
--- De feedback was positief --
-
-
-Ik ben daarna sound2 (sirene) gaan vormgeven, hierbij had ik al een concreet idee. Ik wou namelijk de hele achtergrond rood met blauw maken, waarbij de kleuren steeds omdraaien.
-
-### Dit principe (sound2) visualiseer ik door:
-- rode en blauwe kleur draaien steeds om
-
--- De feedback was positief --
