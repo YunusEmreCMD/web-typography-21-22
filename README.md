@@ -11,3 +11,5 @@ Dit principe (sound1) visualiseer ik door:
 - Een rode gloed achter de video te plaatsen.
 - Video wordt groter en kleiner, dus gloed ook
 - Video trilt
+
+-- Feedback was positief --
