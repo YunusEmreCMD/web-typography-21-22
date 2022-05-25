@@ -249,7 +249,7 @@ main section {
 
 /* sound8 - grain wit achtergrond */
 .sound8 main {
-	transition: 3.5s;
+	/* transition: 3.5s; */
 	background-color: white;
 }
 
@@ -314,16 +314,19 @@ main section {
 	animation-iteration-count: infinite;
 	animation-timing-function: linear;
 
-	transform-origin: center;
+	/* -ms-transform-origin-x: center;
+	-ms-transform-origin-y: center;
+	-webkit-transform-origin-x: center;
+	-ms-transform-origin-y: center; */
 }
 
 .sound9 main section video {
 
-	/* animation-name: trip, trip, trip, trip, trip, trip;
+	animation-name: trip, trip, trip, trip, trip, trip;
 	animation-duration: 1s, 0.75s, 0.5s, 0.25s, 0.125s, 0.05s;
 	animation-iteration-count: infinite;
 	animation-delay: 0s, 10s, 20s, 25s, 30s, 38s;
-	animation-direction: alternate; */
+	animation-direction: alternate;
 
 	/* animation-name: trip1;
 	animation-duration: 42s;
@@ -375,7 +378,7 @@ main section {
 	animation-name: video-groter;
 	animation-duration: 41s;
 	animation-iteration-count: 1;
-	animation-timing-function: linear;
+	animation-timing-function: ease-in;
 }
 
 
@@ -440,7 +443,7 @@ main section {
 .sound11 main {
 	/* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
 	background: linear-gradient(-45deg,
-			rgba(255, 0, 0, 1) 0%,
+			rgb(255, 0, 0) 0%,
 			rgba(255, 154, 0, 1) 10%,
 			rgba(208, 222, 33, 1) 20%,
 			rgba(79, 220, 74, 1) 30%,
@@ -462,7 +465,7 @@ main section {
 }
 
 
-.sound11 {
+.sound11 main section video {
 	animation-name: gray;
 	animation-duration: 35s;
 	animation-fill-mode: forwards;
@@ -628,7 +631,7 @@ main section {
 
 
 /* sound 4 - lopen */
-@keyframes lopen {
+/* @keyframes lopen {
 	0% {
 		transform: translateY(2px);
 	}
@@ -636,7 +639,7 @@ main section {
 	100% {
 		transform: translateY(-20px);
 	}
-}
+} */
 
 
 
@@ -732,20 +735,24 @@ main section {
 	0%,
 	100% {
 		transform: rotate(0deg);
-		filter: blur(0px) saturate(100%);
+		/* filter: blur(0px) saturate(100%); */
+		/* filter: invert(0%); */
+		transform: translate(0px 0px);
 	}
 
 	25% {
-		transform: rotate(-2deg);
+		/* transform: rotate(-1deg); */
 	}
 
 	50% {
-		transform: rotate(0deg);
-		filter: blur(5px) saturate(200%);
+		/* transform: rotate(0deg); */
+		/* filter: blur(5px) saturate(200%); */
+		transform: translate(6px, 6px);
 	}
 
 	75% {
-		transform: rotate(2deg);
+		/* transform: rotate(1deg); */
+		/* filter: invert(100%); */
 	}
 }
 
@@ -754,26 +761,28 @@ main section {
 
 	0%,
 	100% {
-		transform: rotate(0deg);
+		/* transform: rotate(0deg); */
 		/* filter: invert(0%); */
+		transform: translate(0px, 0px);
 	}
 
 	25% {
-		transform: rotate(-1deg);
+		/* transform: rotate(-1deg); */
 	}
 
 	50% {
-		transform: rotate(0deg);
+		/* transform: rotate(0deg); */
+		transform: translate(10px, 10px);
 	}
 
 	75% {
-		transform: rotate(1deg);
+		/* transform: rotate(1deg); */
 		/* filter: invert(100%); */
 	}
 }
 
 
-/* @keyframes trip {
+@keyframes trip {
 
 	0% {
 		filter: invert(0%);
@@ -782,7 +791,7 @@ main section {
 	100% {
 		filter: invert(100%);
 	}
-} */
+}
 
 
 
@@ -810,12 +819,14 @@ main section {
 
 .voice3 {
 	/* background-color: red; */
-	font-size: 50px;
+	font-size: 15px;
 	text-transform: uppercase;
+	text-shadow: 0px 0px 20px red;
+	background-color: rgba(255, 0, 0, 50%);
 	color: white;
-	text-shadow: 0px 0px 30px red;
-	color: red;
-	margin-top: -35px;
+	margin-top: -235px;
+	margin-left: 100px;
+	/* box-shadow: 2px 2px 20px white; */
 }
 
 /* Naam van sprekende */
