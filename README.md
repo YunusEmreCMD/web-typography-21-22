@@ -16,15 +16,15 @@ Na sound 4, wanneer "Officer K" aan het lopen was in de gang, had ik het beeld o
 
 `Sound 9` was een erg irritante geluid verschillende tonen te horen waren. Ik had al gelijk het idee om ruis toe te voegen over het hele beeld, om de piep na te bootsen. De piep werd met de tijd steeds harder, hierbij heb ik gekozen om de video langzaam groter te maken, waardoor ook de ruis meer/groter wordt. Ook heb ik het beeld laten trillen om het beeld vervelender te maken om naar te kijken. Hierop kreeg ik de feedback dat het nog vervelender kon, dus toen ben ik een "invert" filter gaan toepassen en deze wordt steeds erger namate de video duurt. Bij de beoordeling had ik dit vervangen door een andere filter, maar heb deze later weer terug gedaan, omdat de andere filter toch sterker over kwam.
 
-![Sound9](/images/WebTypografie-sound9.png)
-
 Wanneer het vervelende geluid weg is, gaat alles stijling er af, omdat het beeld weer neutraal is (Hiervoor heb ik wel een nieuwe class/sound toegevoegd, namelijk `sound 10`).
+
+![Sound9](/images/WebTypografie-sound9.png)
 
 `Sound 11` gaf mij een beetje hetzelfde gevoel als bij sound 10, alleen met een extra geluid erdoorheen. Namelijk een soort zweefachtige geluidje die heen en weer ging, doordat het steeds harder en zachter werd. Deze geluid heb ik proberen over te brengen door op de achtergrond een gradient heen en weer te laten gaan met verschillende kleuren. De piep en andere vervelende geluid die er tussen zat, heb ik weer vormgegeven net als in sound 10. Ruis, video trilt en wordt groter.
 
-![Sound1](/images/WebTypografie-sound11.png)
-
 Ook hier om alle stijling van de video af te halen heb ik een extra sound toegevoegd, namelijk `sound 12`.
+
+![Sound1](/images/WebTypografie-sound11.png)
 
 
 
