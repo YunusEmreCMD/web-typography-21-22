@@ -4,7 +4,7 @@ Nadat ik dit voor mijzelf duidelijk had gemaakt, ben ik mijn werkomgeving/codeer
 
 Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen.
 
-*Sounds*
+###Sounds
 
 `Sound 0` heb ik vormgegeven, door goed naar de hoge en lage tonen te luisteren van het geluid. Ik heb namelijk een witte gloed achter de video geplaatst, die met het geluid mee beweegt en groter/kleiner wordt. Dit bootste naar mijn mening erg goed het geluid.
 
@@ -27,6 +27,10 @@ Ook hier om alle stijling van de video af te halen heb ik een extra sound toegev
 ![Sound1](/images/WebTypografie-sound11.png)
 
 
-*Fonts*
+###Typografie
+
+Voor alle typografie heb ik het `Brenner` font gebruikt. Omdat het Brenner-family super breed is, heb ik verschillende stijen gebruikt voor de uitspraken van "het syteem" en "Officer K". Het systeem heeft een robot stem, ik vond de mono-type font hierbij het best passen, dat gaf mij het meest robot-achtige gevoelens in de family. Ook als je kijkt naar andere robot stemen in films, is het vaak een mono-type font. Voor Officer K heb ik gekozen voor de normaalste font-style, aangezien het in vergelijking met het systeem een natuurlijkere/normalere stem is.
+
+Ook heb ik ervoor gekozen om aan de voorzijde van de uitspraken, neer te zetten wie er aan het spreken is, ik vond dit erg handig en veelzeggend voor de video. Want in het begin is het niet duidelijk wie er aan het spreken is. Nadat bekend wordt, welke stem waarbij hoort, heb ik "System" en "Officer K" vervangen door de letter "S" en "K".
 
 
