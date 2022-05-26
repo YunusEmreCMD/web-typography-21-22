@@ -10,6 +10,8 @@ Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen.
 
 Bij `sound 1` (alarm) had ik al een leuk idee, ik vond de rode gloed en trillen van de video er goed bij passen. Vervolgens ben ik `sound 2` (politie alarm) gaan vormgeven, dit geluid liet mij denken aan de zwaailichten van een politieauto. Dus heb ik de kleur rood en blauw op de achtergrond van de video heen en weer laten gaan. Het geluid bij `sound 3/4, 6 en 8` klonk voor mij als een grote, metalen mechanische deur die langzaam open ging. Dus dit heb ik vormgegeven door 2 blokken van elkaar af te laten animeren.
 
+[link](/images/WebTypografie-sound0.png)
+
 Na sound 4, wanneer "Officer K" aan het lopen was in de gang, had ik het beeld op en neer laten bewegen. Na de beoordeling heb ik dit er uit gehaald, omdat het niet veel toevoegde aan het geluid/beeld.
 
 `Sound 9` was een erg irritante geluid verschillende tonen te horen waren. Ik had al gelijk het idee om ruis toe te voegen over het hele beeld, om de piep na te bootsen. De piep werd met de tijd steeds harder, hierbij heb ik gekozen om de video langzaam groter te maken, waardoor ook de ruis meer/groter wordt. Ook heb ik het beeld laten trillen om het beeld vervelender te maken om naar te kijken. Hierop kreeg ik de feedback dat het nog vervelender kon, dus toen ben ik een "invert" filter gaan toepassen en deze wordt steeds erger namate de video duurt. Bij de beoordeling had ik dit vervangen door een andere filter, maar heb deze later weer terug gedaan, omdat de andere filter toch sterker over kwam. 
