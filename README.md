@@ -10,7 +10,7 @@ Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen.
 
 Bij `sound 1` (alarm) had ik al een leuk idee, ik vond de rode gloed en trillen van de video er goed bij passen. Vervolgens ben ik `sound 2` (politie alarm) gaan vormgeven, dit geluid liet mij denken aan de zwaailichten van een politieauto. Dus heb ik de kleur rood en blauw op de achtergrond van de video heen en weer laten gaan. Het geluid bij `sound 3/4, 6 en 8` klonk voor mij als een grote, metalen mechanische deur die langzaam open ging. Dus dit heb ik vormgegeven door 2 blokken van elkaar af te laten animeren.
 
-[link](/images/WebTypografie-sound0.png)
+![Sound1](/images/WebTypografie-sound0.png)
 
 Na sound 4, wanneer "Officer K" aan het lopen was in de gang, had ik het beeld op en neer laten bewegen. Na de beoordeling heb ik dit er uit gehaald, omdat het niet veel toevoegde aan het geluid/beeld.
 
