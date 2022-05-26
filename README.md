@@ -4,7 +4,7 @@ Nadat ik dit voor mijzelf duidelijk had gemaakt, ben ik mijn werkomgeving/codeer
 
 Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen.
 
-**Sounds**
+*Sounds*
 
 `Sound 0` heb ik vormgegeven, door goed naar de hoge en lage tonen te luisteren van het geluid. Ik heb namelijk een witte gloed achter de video geplaatst, die met het geluid mee beweegt en groter/kleiner wordt. Dit bootste naar mijn mening erg goed het geluid.
 
@@ -27,5 +27,6 @@ Ook hier om alle stijling van de video af te halen heb ik een extra sound toegev
 ![Sound1](/images/WebTypografie-sound11.png)
 
 
+*Fonts*
 
 
