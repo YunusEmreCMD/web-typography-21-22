@@ -35,4 +35,6 @@ Voor alle typografie heb ik het `Brenner` font gebruikt. Omdat het Brenner-famil
 
 Ook heb ik ervoor gekozen om aan de voorzijde van de uitspraken, neer te zetten wie er aan het spreken is, ik vond dit erg handig en veelzeggend voor de video. Want in het begin is het niet duidelijk wie er aan het spreken is. Nadat bekend wordt, welke stem waarbij hoort, heb ik "System" en "Officer K" vervangen door de letter "S" en "K".
 
+Voor de langslopende persoon die "Fuck off" zegt tegen Officer K heb ik de tekst groter gemaakt dan de andere teksten en een rode kleur gegeven. Hiermee wil ik laten zien dat de persoon het op een boze toon zegt. Ook heb gekozen om de tekst italic te maken en een font met schreven te gebruiken, deze samenhang geeft de tekst een "niet nette" uitstraling. Ook is deze tekst makkelijk te onderscheiden tussen de andere teksten.
+
 
