@@ -14,8 +14,6 @@ Bij `sound 1` (alarm) had ik al een leuk idee, ik vond de rode gloed en trillen 
 
 ![Sound1](/images/WebTypografie-sound0.png)
 
-Na sound 4, wanneer "Officer K" aan het lopen was in de gang, had ik het beeld op en neer laten bewegen. Na de beoordeling heb ik dit er uit gehaald, omdat het niet veel toevoegde aan het geluid/beeld.
-
 `Sound 9` was een erg irritante geluid verschillende tonen te horen waren. Ik had al gelijk het idee om ruis toe te voegen over het hele beeld, om de piep na te bootsen. De piep werd met de tijd steeds harder, hierbij heb ik gekozen om de video langzaam groter te maken, waardoor ook de ruis meer/groter wordt. Ook heb ik het beeld laten trillen om het beeld vervelender te maken om naar te kijken. Hierop kreeg ik de feedback dat het nog vervelender kon, dus toen ben ik een "invert" filter gaan toepassen en deze wordt steeds erger namate de video duurt. Bij de beoordeling had ik dit vervangen door een andere filter, maar heb deze later weer terug gedaan, omdat de andere filter toch sterker over kwam.
 
 Wanneer het vervelende geluid weg is, gaat alles stijling er af, omdat het beeld weer neutraal is (Hiervoor heb ik wel een nieuwe class/sound toegevoegd, namelijk `sound 10`).
@@ -35,11 +33,14 @@ Voor alle typografie heb ik het `Brenner` font gebruikt. Omdat het Brenner-famil
 
 Ook heb ik ervoor gekozen om aan de voorzijde van de uitspraken, neer te zetten wie er aan het spreken is, ik vond dit erg handig en veelzeggend voor de video. Want in het begin is het niet duidelijk wie er aan het spreken is. Nadat bekend wordt, welke stem waarbij hoort, heb ik "System" en "Officer K" vervangen door de letter "S" en "K".
 
-Voor de langslopende persoon die "Fuck off" zegt tegen Officer K heb ik de tekst groter gemaakt dan de andere teksten en een rode kleur gegeven. Hiermee wil ik laten zien dat de persoon het op een boze toon zegt. Ook heb gekozen om de tekst italic te maken en een font met schreven te gebruiken, deze samenhang geeft de tekst een "niet nette" uitstraling. Ook is deze tekst makkelijk te onderscheiden tussen de andere teksten.
+Voor de langslopende persoon die "Fuck off" zegt tegen Officer K heb ik de tekst groter gemaakt dan de andere teksten en een rode kleur gegeven. Hiermee wil ik laten zien dat de persoon het op een boze toon zegt. Ook heb gekozen om de tekst italic te maken en een font met schreven te gebruiken, deze samenhang geeft de tekst een "niet nette" uitstraling. Ook is deze tekst makkelijk te onderscheiden tussen de andere teksten. Ik heb dit stuk later aangepast, omdat het nu er op leek dat het geschreeuwd werd, maar dat wordt het niet echt.
 
 
-# Aanpassingen a.d.h.v. feedback
+# Aanpassingen a.d.h.v. feedback bij de beoordeling
 
-...
+- Na `sound 4`, wanneer "Officer K" aan het lopen was in de gang, had ik het beeld op en neer laten bewegen. Na de beoordeling heb ik dit er uit gehaald, omdat ik als feedback kreeg dat het niet veel toevoegde aan het geluid/beeld, ik was daar wel mee eens.
+
+- `Sound 9` oftwel het geluid dat steeds irritanter werd. Het bijhorende beeld was al sterk/irritant, maar heb na de feedback nog ietsjes aangepast. De trilling die ik had in het beeld, wordt nu met de opkomende/hogere pieptuin erger. Dus het beeld gaat langzaam sneller trillen. 
+- Ook heb ik aangepast dat de achtergrond gelijk zwart wordt en video gelijk kleiner wordt wanneer de pieptoon weg is, dit was eerder niet het geval.
 
 
