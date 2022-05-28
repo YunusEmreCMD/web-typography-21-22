@@ -38,3 +38,8 @@ Ook heb ik ervoor gekozen om aan de voorzijde van de uitspraken, neer te zetten 
 Voor de langslopende persoon die "Fuck off" zegt tegen Officer K heb ik de tekst groter gemaakt dan de andere teksten en een rode kleur gegeven. Hiermee wil ik laten zien dat de persoon het op een boze toon zegt. Ook heb gekozen om de tekst italic te maken en een font met schreven te gebruiken, deze samenhang geeft de tekst een "niet nette" uitstraling. Ook is deze tekst makkelijk te onderscheiden tussen de andere teksten.
 
 
+# Aanpassingen a.d.h.v. feedback
+
+...
+
+
