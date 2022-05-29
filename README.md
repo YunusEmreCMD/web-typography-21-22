@@ -53,6 +53,9 @@ De grootste verandering zit in het 2e fragement, oftwel bij `sound 11`. Ik kreeg
 
 ![Sound11 aangepast](/images/WebTypografie-sound11-aangepast.png)
 
+
+## Iteraties
+
 Ik moet eerlijk zeggen dat het lang duurde om tot dit resultaat te komen, ik heb het een beetje onderschat om een goed idee te bedenken. Ik heb hiervoor meerdere iteraties gedaan. 1 van de iteraties was dat ik net als bij `sound 0`, middels de glow op de achterkant van de video het geluid ging nabootsen. Deze glow werd steeds groter en kleiner op het geluid, en veranderde van kleur gedurende het fragement van `sound 11`. Ook had ik een idee om de video heen en weer te laten bewegen om de tempo van het zweverige geluid na te bootsen, en de video groter en kleiner te maken op de toonhoogte. Maar beide ideeen, zijn het toch niet geworden. Met de feedback die ik heb gekregen ben ik uiteindelijk bij mijn 3e idee uit gekomen. Hierbij een video, van de 2e iteratie.
 
 <img src="/images/sound11-iteratie2.gif" width="1920px" />
