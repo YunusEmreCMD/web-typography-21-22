@@ -12,7 +12,7 @@ Nadat ik helder had wat ik wou gaan doen, ben ik begonnen met coderen.
 
 Bij `sound 1` (alarm) had ik al een leuk idee, ik vond de rode gloed en trillen van de video er goed bij passen. Vervolgens ben ik `sound 2` (politie alarm) gaan vormgeven, dit geluid liet mij denken aan de zwaailichten van een politieauto. Dus heb ik de kleur rood en blauw op de achtergrond van de video heen en weer laten gaan. Het geluid bij `sound 3/4, 6 en 8` klonk voor mij als een grote, metalen mechanische deur die langzaam open ging. Dus dit heb ik vormgegeven door 2 blokken van elkaar af te laten animeren.
 
-![Sound1](/images/WebTypografie-sound0.png)
+![Sound0](/images/WebTypografie-sound0.png)
 
 `Sound 9` was een erg irritante geluid verschillende tonen te horen waren. Ik had al gelijk het idee om ruis toe te voegen over het hele beeld, om de piep na te bootsen. De piep werd met de tijd steeds harder, hierbij heb ik gekozen om de video langzaam groter te maken, waardoor ook de ruis meer/groter wordt. Ook heb ik het beeld laten trillen om het beeld vervelender te maken om naar te kijken. Hierop kreeg ik de feedback dat het nog vervelender kon, dus toen ben ik een "invert" filter gaan toepassen en deze wordt steeds erger namate de video duurt. Bij de beoordeling had ik dit vervangen door een andere filter, maar heb deze later weer terug gedaan, omdat de andere filter toch sterker over kwam.
 
@@ -24,7 +24,7 @@ Wanneer het vervelende geluid weg is, gaat alles stijling er af, omdat het beeld
 
 Ook hier om alle stijling van de video af te halen heb ik een extra sound toegevoegd, namelijk `sound 12`.
 
-![Sound1](/images/WebTypografie-sound11.png)
+![Sound11](/images/WebTypografie-sound11.png)
 
 
 # Typografie
@@ -51,4 +51,5 @@ Voor de langslopende persoon die "Fuck off" zegt tegen Officer K heb ik de tekst
 
 De grootste verandering zit in het 2e fragement, oftwel bij `sound 11`. Ik kreeg van meerdere mensen de feedback dat het trillen prima was, maar niet super veel paste bij het geluid, dus dat heb ik toen er uitgehaald. De gradient op de achtergrond, was wel erg goed heb ik meerdere keren gehoord, dit paste goed bij het geluid. Alleen deze gradient ging niet echt op de tempo van het geluid, dus heb ik de tempo aangepast. Ook heb de kleuren aangepast naar donkerdere kleuren, omdat dit paste bij het donkere/zweverige gevoel bij het fragment. De voorgaande kleuren waren licht en zouden vrolijk kunnen overkomen, en dit is bij dit fragment uiteraard niet het geval. Om het beeld echt over te laten komen, ben ik meer met de tempo van het geluid gaan doen, zo wordt het formaat aangepast op de tonen die er te horen zijn. Met de intensiteit van het geluid wordt dus het beeld groter, waarbij tegelijkertijd de contrast ook wordt aangepast met de intesiteit. Dit is om de druk en grimmige sfeer na te bootsen. 
 
+![Sound11 aangepast](/images/WebTypografie-sound11-aangepast.png)
 
