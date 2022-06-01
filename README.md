@@ -51,7 +51,9 @@ Voor de langslopende persoon die "Fuck off" zegt tegen Officer K heb ik de tekst
 
 De grootste verandering zit in het 2e fragement, oftwel bij `sound 11`. Ik kreeg van meerdere mensen de feedback dat het trillen prima was, maar niet super veel paste bij het geluid, dus dat heb ik toen er uitgehaald. De gradient op de achtergrond, was wel erg goed heb ik meerdere keren gehoord, dit paste goed bij het geluid. Alleen deze gradient ging niet echt op de tempo van het geluid, dus heb ik de tempo aangepast. Ook heb de kleuren aangepast naar donkerdere kleuren, omdat dit paste bij het donkere/zweverige gevoel bij het fragment. De voorgaande kleuren waren licht en zouden vrolijk kunnen overkomen, en dit is bij dit fragment uiteraard niet het geval. Om het beeld echt over te laten komen, ben ik meer met de tempo van het geluid gaan doen, zo wordt het formaat aangepast op de tonen die er te horen zijn. Met de intensiteit van het geluid wordt dus het beeld groter, waarbij tegelijkertijd de contrast ook wordt aangepast met de intesiteit. Dit is om de druk en grimmige sfeer na te bootsen.
 
-Tot slot heb ik ook een tril-animatie toegevoegd, wanneer er een melding binnenkomt en de vrouw naar der scherm kijkt. Dit maakt het duidelijker wat er gebeurd, ondanks je geen geluid hebt.
+Ik heb ook een tril-animatie toegevoegd, wanneer er een melding binnenkomt en de vrouw naar het scherm kijkt. Dit maakt het duidelijker wat er gebeurd, ondanks je geen geluid hebt.
+
+Tot slot heb ik deze read-me gevuld, hiervoor had ik weinig informatie, nu heb ik alles er in gezet.
 
 ![Sound11 aangepast](/images/WebTypografie-sound11-aangepast.png)
 
@@ -60,5 +62,5 @@ Tot slot heb ik ook een tril-animatie toegevoegd, wanneer er een melding binnenk
 
 Ik moet eerlijk zeggen dat het lang duurde om tot dit resultaat te komen, ik heb het een beetje onderschat om een goed idee te bedenken. Ik heb hiervoor meerdere iteraties gedaan. 1 van de iteraties was dat ik net als bij `sound 0`, middels de glow op de achterkant van de video het geluid ging nabootsen. Deze glow werd steeds groter en kleiner op het geluid, en veranderde van kleur (regenboog gradient) gedurende het fragement van `sound 11`. Ook had ik een idee om de video heen en weer te laten bewegen om de tempo van het zweverige geluid na te bootsen, en de video groter en kleiner te maken op de toonhoogte. Maar beide ideeen, zijn het toch niet geworden. Met de feedback die ik heb gekregen ben ik uiteindelijk bij mijn 3e idee uit gekomen. Hierbij een video, van de 2e iteratie.
 
-<img src="/images/sound11-iteratie2.gif" width="3840px" />
+<img src="/images/sound11-iteratie2.gif" width="1920px" />
 
